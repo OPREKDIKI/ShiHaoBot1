@@ -56,7 +56,7 @@ let time = moment.tz('Asia/Jakarta').format('HH:mm:ss')
   ◉ 𝐓𝗼𝐭𝐚𝐥 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 : ${totalf.length}
   ◉ 𝐔𝐬𝐞𝐫 𝐁𝐚𝐧𝐧𝐞𝐝 : ${users.length}
   `
-await conn.sendButton(m.chat, cap, '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝙎𝙝𝙞 𝙃𝙖𝙤 𝘽𝙤𝙩', Buffer.alloc(0), [['List Menu', '.tesm'], ['All Menu', '/allmenu']], fkontak, { mimetype: "text/rtf", fileName: 'sʜɪʜᴀᴏʙᴏᴛ ᴏғғᴄ' + nameown1, pageCount: 90000, fileLength: 90000, seconds: 90000, jpegThumbnail: pepe,
+await conn.sendButton(m.chat, cap, '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝙎𝙝𝙞 𝙃𝙖𝙤 𝘽𝙤𝙩', Buffer.alloc(0), [['List Menu', '.tesm'], ['All Menu', '/allmenu']], fkontak, { mimetype: "text/rtf", fileName: 'sʜɪʜᴀᴏʙᴏᴛ ᴏғғᴄ', pageCount: 90000, fileLength: 90000, seconds: 90000, jpegThumbnail: pepe,
           contextInfo: {
 				forwardingScore: fsizedoc,
 				externalAdReply: {
