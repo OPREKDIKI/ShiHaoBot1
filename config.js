@@ -67,7 +67,7 @@ global.stickauth = `☯︎ 𝐒𝐡𝐢 𝐇𝐚𝐨 𝐁𝐨𝐭 𝐌𝐝`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝐏𝐞𝐧𝐠𝐮𝐚𝐬𝐚 𝐃𝐮𝐧𝐢𝐚'
+global.nameown1= '𝐃𝐢𝐤𝐢'
 global.nameown2 = '𝐒𝐡𝐢 𝐇𝐚𝐨 𝐁𝐨𝐭'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
